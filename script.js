@@ -5,7 +5,7 @@ const gradePoints = {
     B: 8,
     BC: 7,
     C: 6,
-    DC: 5,
+    CD: 5,
     D: 4,
     F: 0,
   };
